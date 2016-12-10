@@ -7,7 +7,7 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: minamidev
 
 defaults:
   -
@@ -18,14 +18,14 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: xuannam2620
-  email: xuannam2620@gmail.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: minamidev
+  email: minamidev@gmail.com
+  github: xuannam2620
+  twitter: xuannam2620
+  pinterest: xuannam2620
+  linkedin: xuannam2620
+  bio: Nothing is impossible!
+  email_md5: fee55691a6bcd677cae22c545345a700
 
 rss_path: feed.xml
 categories_path: categories.html
