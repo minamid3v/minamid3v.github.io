@@ -6,8 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: dbyll
-google_analytics: dbyll
-title: Minamidev
+google_analytics: minamidev
+title: min@mid3v
 
 defaults:
   -
