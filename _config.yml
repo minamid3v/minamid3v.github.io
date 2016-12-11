@@ -7,7 +7,7 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: minamidev
-title: min@mid3v
+title: minamidev.com
 
 defaults:
   -
