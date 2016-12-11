@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How does increasing size work?
-categories: [general, demo]
-tags: [demo, dbyll, dbtek]
+categories: [java, programming]
+tags: [java, arraylist]
 description: Sample placeholder post.
 ---
 
