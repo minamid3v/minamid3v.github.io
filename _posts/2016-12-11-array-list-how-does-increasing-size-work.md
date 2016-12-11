@@ -3,7 +3,7 @@ layout: post
 title: How does increasing size work?
 categories: [java, programming]
 tags: [java, arraylist]
-description: Sample placeholder post.
+description: I'm back with a basic question about ArrayList.
 ---
 
 Hi everyone,
