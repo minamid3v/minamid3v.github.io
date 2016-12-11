@@ -26,7 +26,7 @@
 }
 /* Name Builtin */
 .highlight .nb {
-  color: transparent;
+  color: #e06c75;
   background-color: transparent;
 }
 /* Name Class */
@@ -71,7 +71,7 @@
 }
 /* Name Other */
 .highlight .nx {
-  color: #61afef;
+  color: #e06c75;
   background-color: transparent;
 }
 /* Name Property */
