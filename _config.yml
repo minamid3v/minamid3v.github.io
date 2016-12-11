@@ -7,14 +7,14 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: minamidev
-title: minamidev.com
+title: ℳ𝒾𝓃𝒶𝓂𝒾𝒹𝓔𝓋
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: min@mid3v
+      title: ℳ𝒾𝓃𝒶𝓂𝒾𝒹𝓔𝓋
 
 description: Stylish Jekyll Theme
 author:
