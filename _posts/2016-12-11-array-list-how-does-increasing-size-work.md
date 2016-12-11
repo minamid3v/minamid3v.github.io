@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ArrayList: How does increasing size work?
-categories: [java]
-tags: [java, arraylist]
-description: Today, I'm back with a basic question about ArrayList.
+title: How does increasing size work?
+categories: [general, demo]
+tags: [demo, dbyll, dbtek]
+description: Sample placeholder post.
 ---
 
 Hi everyone,
