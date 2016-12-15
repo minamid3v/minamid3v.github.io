@@ -195,7 +195,7 @@ ul.dropdown-menu>li>a>i.fa {
 	line-height: 40px;
 	font-family: 'Lato',sans-serif;
 	color: #e74c3c;
-	height: 160px;
+	/*height: 160px;*/
 	overflow: hidden;
 }
 
