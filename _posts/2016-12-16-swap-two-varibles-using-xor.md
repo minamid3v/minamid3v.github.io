@@ -34,7 +34,7 @@ X ^ Y = X ^ Y;
 (X ^ Y) ^ Z = X ^ (Y ^ Z)
 
 ## Quay lại với code lúc nãy
-{% highlight js linenos %}
+{% highlight js %}
 x = x^y;
 y = x^y;
 x = x^y;
@@ -50,6 +50,7 @@ y = x^(y^y);
 y = x^0;
 y = x;
 {% endhighlight %}  
+`y` giờ mang giá trị của `x`  
 *Perfect!*  
 Tiếp theo đến `dòng 3`.
 Dòng 3 có thể viết lại thành  
@@ -59,13 +60,13 @@ x = (x^x)^y;
 x = 0^y;
 x = y;
 {% endhighlight %}  
-
+`x` giờ mang giá trị của `y`  
 ![WOW](https://2.bp.blogspot.com/-AAAoiwaaiQM/TXmaCuYsKPI/AAAAAAAAAHU/3vqX_YzKWLk/s748/breath%2Bcat.png)
 
 Ghê chưa :D
 
 Bây giờ nhìn theo một hướng khác.  
-{% highlight js linenos %}
+{% highlight js %}
 x = x^y;
 y = x^y;
 x = x^y;
@@ -74,4 +75,5 @@ x = x^y;
 Ta sử dụng cách dùng này của `XOR` tại `dòng 2`, lúc nãy ta đã tạo ra combine của `x` và `y`, giờ ta muốn xoá `y` đi, ta `XOR` giá trị đó với `y` một lần nữa, `y` sẽ biến mất. Chỉ còn lại `x` bơ vơ.  
 `Dòng 3` hoàn toàn tương tự, nhưng chú ý một điều là `y` giờ mang giá trị của `x` nên khi `XOR` với `y` thì sẽ xoá `x` đi, đến lượt `y` lại bơ vơ một mình.
 
-これで終わります。
+これで終わります。 
+
