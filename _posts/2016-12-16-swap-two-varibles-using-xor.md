@@ -22,7 +22,7 @@ x = x^y;
 ![WTF](http://www.punjabigraphics.com/images/11/omg-wtf.jpg)  
 
 Cái này là cái WTF gì mà nhìn đơn giản, nhưng thật vi diệu làm sao, it works!
-Thế là nhét nó vào code. Nhưng với lương tâm của một coder chân chính, mình phải hiểu rõ nó rồi mới được dùng (trừ những lúc lười ra, tiếc thay mình toàn lười ^ ^) nên mình làm  post này cho các bạn cũng lười như mình hiểu rõ thêm về kĩ thuật này.
+Thế là nhét nó vào code. Nhưng với lương tâm của một coder chân chính, mình phải hiểu rõ nó rồi mới được dùng (trừ những lúc lười ra, tiếc thay mình toàn lười ^ ^) nên mình làm  post này cho các bạn cũng lười như mình hiểu rõ thêm về kĩ thuật này.  
 ## OK bắt đầu với thằng XOR
 
 1. Giá trị của phép XOR:  
@@ -51,6 +51,7 @@ y = x^0;
 y = x;
 {% endhighlight %}  
 `y` giờ mang giá trị của `x`  
+
 *Perfect!*  
 Tiếp theo đến `dòng 3`.
 Dòng 3 có thể viết lại thành  
@@ -60,7 +61,8 @@ x = (x^x)^y;
 x = 0^y;
 x = y;
 {% endhighlight %}  
-`x` giờ mang giá trị của `y`  
+`x` giờ mang giá trị của `y`    
+
 ![WOW](https://2.bp.blogspot.com/-AAAoiwaaiQM/TXmaCuYsKPI/AAAAAAAAAHU/3vqX_YzKWLk/s748/breath%2Bcat.png)
 
 Ghê chưa :D
