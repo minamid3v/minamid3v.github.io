@@ -228,7 +228,7 @@ ul.dropdown-menu>li>a>i.fa {
   animation-iteration-count: infinite;
 }
 
-ul {
+.page-header .content .visible ul {
   margin-top: 0;
   text-align: left;
   list-style: none;
@@ -240,7 +240,7 @@ ul {
   animation-iteration-count: infinite;
 }
 
-ul li {
+.page-header .content .visible ul li {
   line-height: 40px;
   margin: 0;
 }
