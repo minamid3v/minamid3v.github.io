@@ -78,7 +78,7 @@ article .share .gplus:hover {
 	border-color: #C13929;
 }
 
-.page-header{
+.post-page-header{
 	color: #e74c3c;
  	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
@@ -190,7 +190,7 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 /* PAGE-HEADER */
-.animated-page-header {
+.page-header {
   height: 60px;
   position: relative;
 }
@@ -233,7 +233,7 @@ ul.dropdown-menu>li>a>i.fa {
   animation-iteration-count: infinite;
 }
 
-.animated-page-header .content .visible ul {
+.page-header .content .visible ul {
   margin-top: 0;
   text-align: left;
   list-style: none;
@@ -245,7 +245,7 @@ ul.dropdown-menu>li>a>i.fa {
   animation-iteration-count: infinite;
 }
 
-.animated-page-header .content .visible ul li {
+.page-header .content .visible ul li {
   line-height: 40px;
   margin: 0;
 }
