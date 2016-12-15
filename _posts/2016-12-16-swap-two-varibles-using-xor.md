@@ -27,13 +27,18 @@ Thế là nhét nó vào code. Nhưng với lương tâm của một code
 ### OK bắt đầu với thằng XOR
 
 1. Giá trị của phép XOR:  
-X ^ 0 = X
-X ^ X = 0
+{% highlight js %}
+X ^ 0 = X  
+X ^ X = 0  
+{% endhighlight %} 
 2. Tính giao hoán:  
-X ^ Y = X ^ Y;
-3. Tính kết hợp:
-(X ^ Y) ^ Z = X ^ (Y ^ Z)
-
+{% highlight js %}  
+X ^ Y = X ^ Y;  
+{% endhighlight %} 
+3. Tính kết hợp:  
+{% highlight js %}
+(X ^ Y) ^ Z = X ^ (Y ^ Z)  
+{% endhighlight %} 
 ### Quay lại với code lúc nãy  
 {% highlight js %}
 x = x^y;
