@@ -81,6 +81,9 @@ article .share .gplus:hover {
 .post-page-header{
 	color: #e74c3c;
  	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+	padding-bottom: 9px;
+	margin: 40px 0 20px;
+	border-bottom: 1px solid #eee;
 }
 
 #contact-list-secondary {
