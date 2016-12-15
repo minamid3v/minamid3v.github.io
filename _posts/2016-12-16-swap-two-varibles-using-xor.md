@@ -23,7 +23,8 @@ x = x^y;
 
 Cái này là cái WTF gì mà nhìn đơn giản, nhưng thật vi diệu làm sao, it works!
 Thế là nhét nó vào code. Nhưng với lương tâm của một coder chân chính, mình phải hiểu rõ nó rồi mới được dùng (trừ những lúc lười ra, tiếc thay mình toàn lười ^ ^) nên mình làm  post này cho các bạn cũng lười như mình hiểu rõ thêm về kĩ thuật này.  
-### OK bắt đầu với thằng XOR  
+
+### OK bắt đầu với thằng XOR
 
 1. Giá trị của phép XOR:  
 X ^ 0 = X
