@@ -82,11 +82,6 @@ article .share .gplus:hover {
 	padding-bottom: 10px;
 }
 
-.page-header {
-	color: #e74c3c;
-	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
-}
-
 @media only screen and (min-width: 768px) {
     .page-header{
         margin-right: 70px;
@@ -192,18 +187,15 @@ ul.dropdown-menu>li>a>i.fa {
 /* PAGE-HEADER */
 .page-header {
   height: 60px;
-  background-color: #34495e;
   position: relative;
 }
 
 .content {
-  margin: auto 0 auto 0;
   position: absolute;
   font-size: 35px;
   line-height: 40px;
   font-family: 'Lato', sans-serif;
   color: #e74c3c;
-  height: 160px;
   overflow: hidden;
 }
 
