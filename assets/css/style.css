@@ -213,12 +213,13 @@ ul.dropdown-menu>li>a>i.fa {
 }
 .page-header .visible:after{
 	content:']';
-	/*position: absolute;*/
+	position: absolute;
 	right: 0;
 	line-height: 40px;
 }
 
 .page-header .visible:before, .visible:after{
+	position: absolute;
 	color: #16a085;
 	font-size: 42px;
 	-webkit-animation-name: opacity;
