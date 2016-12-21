@@ -5,13 +5,13 @@ categories: [euler, algorithm]
 tags: [python, collatz, python]
 description: Tìm dãy Collatz dài nhất của một số nhỏ hơn 10000000
 ---
-Dạo gần đây mình khá là có hứng thú với các bài toán trên [EulerProject]('https://projecteuler.net'). Thấy bọn nước ngoài giải ghê quá, Việt Nam được vài mống 👎 👎  
+Dạo gần đây mình khá là có hứng thú với các bài toán trên [EulerProject](https://projecteuler.net). Thấy bọn nước ngoài giải ghê quá, Việt Nam được vài mống 👎 👎  
 
 Trên Euler Project bạn không cần phải có một thuật toán tối ưu nhất, chỉ cần có kết quả đúng. Thuật toán cho dù chạy 1 ngày, 2 ngày, cả tuần mới ra kết quả, nhưng chỉ cần có kết quả đúng thì bạn vẫn có thể pass.  
 
 Đặc biệt là khi pass qua một problem thì bạn có thể tham khảo cách giải của những người khác, lời giải rất đa dạng về cách giải quyết cũng như ngôn ngữ lập trình: `Java`, `Python`, `C/C++`, `ECMAScript`,...  
 
-Quảng cáo cho EulerProject thế đủ rồi, quay lại với bài toán *`Collatz`*. Nếu bạn nào chưa biết về *`Collatz Problem`* thì bạn có thể đọc ở [đây]('https://en.wikipedia.org/wiki/Collatz_conjecture').  
+Quảng cáo cho EulerProject thế đủ rồi, quay lại với bài toán *`Collatz`*. Nếu bạn nào chưa biết về *`Collatz Problem`* thì bạn có thể đọc ở [đây](https://en.wikipedia.org/wiki/Collatz_conjecture).  
 Hiểu một cách đơn giản:
 Cho trước một số nguyên dương n, giá trị của n lần lượt được tính theo hàm *`f(n)`*  
 
