@@ -9,9 +9,9 @@ If all decimal numbers are concatenated in a string then we will get a string wh
 P = “12345678910111213141516171819202122232425262728293031….”  
 Examples:  
 >N= 10    10th character is 1  
-N = 11    11th character is 0  
-N = 50    50th character is 3  
-N = 190    190th character is 1  
+>N = 11    11th character is 0  
+>N = 50    50th character is 3  
+>N = 190    190th character is 1  
 
 {% highlight python %}
 import math
