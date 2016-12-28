@@ -8,7 +8,7 @@ description: If all decimal numbers are concatenated in a string then we will ge
 If all decimal numbers are concatenated in a string then we will get a string which looks like string P as shown below. We need to tell Nth character of this string.  
 P = “12345678910111213141516171819202122232425262728293031….”  
 Examples:  
->N= 10    10th character is 1  
+> N= 10    10th character is 1  
     N = 11    11th character is 0  
     N = 50    50th character is 3  
     N = 190    190th character is 1  
